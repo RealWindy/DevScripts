@@ -1,6 +1,6 @@
 --[[
      DEX Main Script
-	--loadstring(game:HttpGet(""))()
+	--loadstring(game:HttpGet("https://raw.githubusercontent.com/RealWindy/DevScripts/main/darkdextest.lua"))()
 	   Created by: Alter-X#5868
 	
 --]]
